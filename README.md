@@ -1,1 +1,1 @@
-# this my sample repo for my intern
+# iam learning devops during intenship
